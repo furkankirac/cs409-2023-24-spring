@@ -34,3 +34,7 @@ add_executable(mt1_prep "mt1_preparation.cpp")
 add_executable(mt1_19 "mt1_19semicolon.cpp")
 add_executable(mt1_22 "mt1_22semicolon.cpp")
 add_executable(mt1_28 "mt1_28semicolon.cpp")
+# week 10 Ramadan Holiday
+# week 11 mt1
+add_executable(w12a1 "week12-app1.cpp")
+add_executable(w12a2 "week12-app2.cpp")
