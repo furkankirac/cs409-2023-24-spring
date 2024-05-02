@@ -38,3 +38,7 @@ add_executable(mt1_28 "mt1_28semicolon.cpp")
 # week 11 mt1
 add_executable(w12a1 "week12-app1.cpp")
 add_executable(w12a2 "week12-app2.cpp")
+add_executable(w13a1 "week13-app1.cpp")
+add_executable(w13a2 "week13-app2.cpp")
+add_executable(w13a3 "week13-app3.cpp")
+add_executable(w13a4 "week13-app4.cpp")
