@@ -57,3 +57,5 @@ add_executable(w15a5 "week15-app5.cpp")
 add_executable(w15a6 "week15-app6.cpp")
 add_executable(w15a7 "week15-app7.cpp")
 add_executable(w15a8 "week15-app8.cpp")
+
+add_executable(mt2 "mt2.cpp")
